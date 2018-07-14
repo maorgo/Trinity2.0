@@ -21,6 +21,7 @@ After setting the right configuration in configuration.py, all that is needed is
 <br>
 
 ```python
+from Research.Trinity2 import Trinity2
 trinity = Trinity2()
 trinity.calculate()
 ```
